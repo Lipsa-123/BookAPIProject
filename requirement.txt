@@ -23,10 +23,10 @@
 
 //GET
 
-// to get all books
-//to get specific book
-//to get a list of books based on category
-//to get a list of books based on author
+// to get all books ✅
+//to get specific book ✅
+//to get a list of books based on category ✅
+//to get a list of books based on author ✅
 
 //POST
 
@@ -36,13 +36,13 @@
 //PUT
 
 //updTE book details✅
-//update/add new author
+//update/add new author ✅
 
 
 //DELETE
 
-//delete a book
-//delete a author from a book
+//delete a book ✅
+//delete a author from a book ✅
 
 //---------------------------------------------------------------------------------//
 
@@ -53,14 +53,14 @@
 
 //GET
 
-//to get all authors
-//to get specific author
-//to get a list of authora based on a book
+//to get all authors ✅
+//to get specific author ✅
+//to get a list of authora based on a book ✅
 
 
 //POST
 
-//New author
+//New author ✅
 
 
 //PUT
@@ -70,8 +70,8 @@
 
 //DELETE
 
-//delete an author
-//delete a author
+//delete an author ✅
+
 
 //---------------------------------------------------------------------------------//
 
@@ -82,9 +82,9 @@
 
 //GET
 
-//to get all publications
-//to get specific publications
-//to get a list of publications based on a book
+//to get all publications ✅
+//to get specific publications ✅
+//to get a list of publications based on a book ✅
 
 //POST
 
@@ -93,11 +93,11 @@
 //PUT
 
 //update publication deetails [TASK🔥]
-//update / add new book to a publication
+//update / add new book to a publication ✅
 
 //DELETE
 
-//delete a book
-//delete a publication
+//delete a book from publications ✅
+//delete a publication ✅
 
-//How the server serves the request
+//How does the server serves the request
