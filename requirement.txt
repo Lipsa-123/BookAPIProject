@@ -1,0 +1,103 @@
+//Requirements
+
+//We are a company that handles a book publiication
+
+//Book
+//ISBN, Title, author, language, Pub data, Num page, Category[]
+
+//Authors
+//Name, Id, Books[]
+
+//Publications
+//Name, Id, books[]
+
+//Data => what type of data?
+
+//Requirements
+
+//---------------------------------------------------------------------------------//
+
+//Book
+
+//We need an API
+
+//GET
+
+// to get all books
+//to get specific book
+//to get a list of books based on category
+//to get a list of books based on author
+
+//POST
+
+//New book✅
+
+
+//PUT
+
+//updTE book details✅
+//update/add new author
+
+
+//DELETE
+
+//delete a book
+//delete a author from a book
+
+//---------------------------------------------------------------------------------//
+
+
+//Author
+
+//We need an API
+
+//GET
+
+//to get all authors
+//to get specific author
+//to get a list of authora based on a book
+
+
+//POST
+
+//New author
+
+
+//PUT
+
+//Author details [TASK🔥]
+
+
+//DELETE
+
+//delete an author
+//delete a author
+
+//---------------------------------------------------------------------------------//
+
+
+//Publications
+
+//We need an API
+
+//GET
+
+//to get all publications
+//to get specific publications
+//to get a list of publications based on a book
+
+//POST
+
+//Add new publications  [TASK🔥]
+
+//PUT
+
+//update publication deetails [TASK🔥]
+//update / add new book to a publication
+
+//DELETE
+
+//delete a book
+//delete a publication
+
+//How the server serves the request
