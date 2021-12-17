@@ -11,15 +11,6 @@ shapeAI.use(express.json());
 const database=require("./Databse/index");
 
 //establish database connection
-// mongoose.connect("mongodb+srv://Samana:Samana123@shapeai.jlwxp.mongodb.net/Booky?retryWrites=true&w=majority",
-// {
-//  useNewUrlParser: true,
-//  useUnifiedTopology: true,
-//  useFindAndModify: false,
-//  useCreateIndex: true,
-// }
-// )
-// .then(()=> console.log("connection established!!!!!!!!"));
 
 mongoose.connect(process.env.MONGO_URL).then(()=> console.log("connection established!!!!!!!!"));;
 
