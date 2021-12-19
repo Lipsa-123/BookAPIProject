@@ -8,6 +8,6 @@ const PulicationSchema=mongoose.Schema({
 });
 
 //Create a book model
-const PulicationModel=mongoose.model(PulicationSchema);
+const PulicationModel=mongoose.model("publications",PulicationSchema);
 
 module.exports=PulicationModel;

@@ -10,6 +10,10 @@ shapeAI.use(express.json());
 //Database
 const database=require("./Databse/index");
 
+//Models
+const BookModel=require("./Databse/book");
+const AuthorModel=require("./Databse/author");
+const PublicationModel=require("./Databse/publication");
 //establish database connection
 
 mongoose.connect(process.env.MONGO_URL).then(()=> console.log("connection established!!!!!!!!"));;
